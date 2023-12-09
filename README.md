@@ -25,6 +25,3 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/amir811537)  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=amir811537&theme=dark" alt="GitHub Streak" /></a>
-[
-](https://api.githubtrends.io/user/svg/amir811537/langs?time_range=one_year&theme=classic)https://api.githubtrends.io/user/svg/amir811537/langs?time_range=one_year&theme=classic
-
