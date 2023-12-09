@@ -1,6 +1,7 @@
 ![Web Developer](https://raw.githubusercontent.com/amir811537/amir811537/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png)
 <h1 align="center">Hi 👋, I'm Amir Hossain</h1>
 <h3 align="center">Web Developer</h3>
+<p>I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir811537&label=Profile%20views&color=0e75b6&style=flat" alt="amir811537" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amir811537&theme=" alt="amir811537" /></a> </p>
