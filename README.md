@@ -25,5 +25,5 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/amir811537)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=amir811537)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=amir811537&theme=dark)](https://git.io/streak-stats)
 
