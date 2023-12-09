@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Blood Donation web app](https://blood-donation-auth-adf7b.web.app/)
 - 👯 I’m looking to collaborate on **GitHub**
-- 🌱 I’m currently learning **javaScript,node.js,mongodb,express.js**
+- 🌱 I’m currently learning **javaScript,node.js,mongodb,express.js,react.js**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **amirhossain.bc75@gmail.com**
 
