@@ -2,13 +2,13 @@
 ![Web Developer](https://raw.githubusercontent.com/amir811537/amir811537/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png)
 ### Hi there 👋, I'm Amir Hossain 
 #### Web Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems.
 
 Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Blood Donation web app 
-- 🌱 I’m currently learning javaScript, node.js,MongoDB,Express.js 
-- 👯 I’m looking to collaborate on github 
+- 🌱 I’m currently learning JavaScript, node.js,MongoDB,Express.js 
+- 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: amirhossain.bc75@gmail.com 
 
