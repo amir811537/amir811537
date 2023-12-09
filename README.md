@@ -1,7 +1,7 @@
+
+![Web Developer](https://raw.githubusercontent.com/amir811537/amir811537/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png)
 ### Hi there 👋, I'm Amir Hossain 
 #### Web Developer
-![Web Developer](https://raw.githubusercontent.com/amir811537/amir811537/main/Blue%20and%20White%20Modern%20Tech%20Web%20Developer%20Twitter%20Header.png)
-
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 Skills:  REACT / JS / HTML / CSS
