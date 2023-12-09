@@ -12,9 +12,9 @@
 - 📫 How to reach me **amirhossain.bc75@gmail.com**
 - 👨‍💻 All of my projects are available at **https://amir811537.github.io/developer-portfolio/?fbclid=IwAR1Ou1gughvGSV93zUG6yLH4e2KW4MJQqglHhi9AqSNtP5TuzzMu7jyU3DA**
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/aamir-hossain-a37911274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR11na-8iRNOr_ZVUwiDEYp43gWq9McBzkq9wGiF4L5g0Qhayf5I6z0qGxA/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/aamir-hossain-a37911274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR11na-8iRNOr_ZVUwiDEYp43gWq9McBzkq9wGiF4L5g0Qhayf5I6z0qGxA/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/amir811537" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/https://www.instagram.com/amir_hossain2002/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/amir_hossain2002/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:amirhossain.bc75@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
