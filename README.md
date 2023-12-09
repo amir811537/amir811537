@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **javaScript,node.js,mongodb,express.js**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me **amirhossain.bc75@gmail.com**
-- 👨‍💻 All of my projects are available at **https://amir811537.github.io/developer-portfolio/?fbclid=IwAR1Ou1gughvGSV93zUG6yLH4e2KW4MJQqglHhi9AqSNtP5TuzzMu7jyU3DA**
+
 
 <div> <a href="https://www.linkedin.com/in/aamir-hossain-a37911274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=IwAR11na-8iRNOr_ZVUwiDEYp43gWq9McBzkq9wGiF4L5g0Qhayf5I6z0qGxA/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/amir811537" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
